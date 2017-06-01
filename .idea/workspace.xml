@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e7915e1-ea94-4ad6-8a91-3e04420e76b9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MySpider/spiders/tmp.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Srf.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Srf.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MySpider/spiders/test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/MySpider/spiders/tmp.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MySpider/settings.py" afterPath="$PROJECT_DIR$/MySpider/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MySpider/spiders/gewara_spider.py" afterPath="$PROJECT_DIR$/MySpider/spiders/gewara_spider.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MySpider/spiders/test.json" afterPath="$PROJECT_DIR$/MySpider/spiders/nuomi_spider.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,96 +21,10 @@
       <file leaf-file-name="gewara_spider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            <state relative-caret-position="1122">
+              <caret line="66" column="140" lean-forward="false" selection-start-line="66" selection-start-column="140" selection-end-line="66" selection-end-column="140" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MySpider/spiders/test.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MySpider/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tmp.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MySpider/spiders/tmp.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#2256#2262#0" expanded="true" />
-                <element signature="e#2262#2268#0" expanded="true" />
-                <element signature="e#2268#2274#0" expanded="true" />
-                <element signature="e#2274#2280#0" expanded="true" />
-                <element signature="n#style#0;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#label#0;n#span#2;n#li#0;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#3233#3239#0" expanded="true" />
-                <element signature="e#3444#3450#0" expanded="true" />
-                <element signature="n#div#0;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#4287#4293#0" expanded="true" />
-                <element signature="e#4976#4982#0" expanded="true" />
-                <element signature="n#li#1;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#6147#6153#0" expanded="true" />
-                <element signature="n#li#2;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#label#0;n#span#2;n#li#2;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#7365#7371#0" expanded="true" />
-                <element signature="e#7576#7582#0" expanded="true" />
-                <element signature="n#div#1;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#8415#8421#0" expanded="true" />
-                <element signature="e#9091#9097#0" expanded="true" />
-                <element signature="n#li#3;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#label#0;n#span#2;n#li#3;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#10235#10241#0" expanded="true" />
-                <element signature="e#10446#10452#0" expanded="true" />
-                <element signature="n#div#2;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#11285#11291#0" expanded="true" />
-                <element signature="e#11961#11967#0" expanded="true" />
-                <element signature="n#li#4;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#label#0;n#span#2;n#li#4;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#13096#13102#0" expanded="true" />
-                <element signature="e#13307#13313#0" expanded="true" />
-                <element signature="n#div#3;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#14146#14152#0" expanded="true" />
-                <element signature="e#14822#14828#0" expanded="true" />
-                <element signature="n#li#5;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#label#0;n#span#2;n#li#5;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#15961#15967#0" expanded="true" />
-                <element signature="e#16172#16178#0" expanded="true" />
-                <element signature="n#div#4;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#17011#17017#0" expanded="true" />
-                <element signature="e#17687#17693#0" expanded="true" />
-                <element signature="n#li#6;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-                <element signature="e#18862#18868#0" expanded="true" />
-                <element signature="n#li#7;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#label#0;n#span#2;n#li#7;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#20084#20090#0" expanded="true" />
-                <element signature="e#20703#20709#0" expanded="true" />
-                <element signature="n#style#0;n#div#7;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#7;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#1;n#div#0;n#div#7;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#span#2;n#div#0;n#div#7;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,8 +52,8 @@
         <option value="$PROJECT_DIR$/MySpider/items.py" />
         <option value="$PROJECT_DIR$/MySpider/spiders/nuomi_spider.py" />
         <option value="$PROJECT_DIR$/MySpider/spiders/tmp.html" />
-        <option value="$PROJECT_DIR$/MySpider/spiders/gewara_spider.py" />
         <option value="$PROJECT_DIR$/MySpider/settings.py" />
+        <option value="$PROJECT_DIR$/MySpider/spiders/gewara_spider.py" />
       </list>
     </option>
   </component>
@@ -171,8 +84,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -402,9 +315,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27231467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2806354" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -412,7 +325,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3147541" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31311476" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -459,13 +372,69 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MySpider/spiders/nuomi_spider.py">
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="23" column="67" lean-forward="false" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#13#0" expanded="false" />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/tmp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/nuomi_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -483,7 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -509,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -527,7 +494,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -545,7 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -563,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -588,25 +552,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MySpider/spiders/test.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/test.json" />
     <entry file="file://$PROJECT_DIR$/MySpider/items.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -614,94 +567,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MySpider/spiders/tmp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#2256#2262#0" expanded="true" />
-            <element signature="e#2262#2268#0" expanded="true" />
-            <element signature="e#2268#2274#0" expanded="true" />
-            <element signature="e#2274#2280#0" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#label#0;n#span#2;n#li#0;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#3233#3239#0" expanded="true" />
-            <element signature="e#3444#3450#0" expanded="true" />
-            <element signature="n#div#0;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#4287#4293#0" expanded="true" />
-            <element signature="e#4976#4982#0" expanded="true" />
-            <element signature="n#li#1;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#6147#6153#0" expanded="true" />
-            <element signature="n#li#2;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#label#0;n#span#2;n#li#2;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#7365#7371#0" expanded="true" />
-            <element signature="e#7576#7582#0" expanded="true" />
-            <element signature="n#div#1;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#8415#8421#0" expanded="true" />
-            <element signature="e#9091#9097#0" expanded="true" />
-            <element signature="n#li#3;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#label#0;n#span#2;n#li#3;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#10235#10241#0" expanded="true" />
-            <element signature="e#10446#10452#0" expanded="true" />
-            <element signature="n#div#2;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#11285#11291#0" expanded="true" />
-            <element signature="e#11961#11967#0" expanded="true" />
-            <element signature="n#li#4;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#label#0;n#span#2;n#li#4;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#13096#13102#0" expanded="true" />
-            <element signature="e#13307#13313#0" expanded="true" />
-            <element signature="n#div#3;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#14146#14152#0" expanded="true" />
-            <element signature="e#14822#14828#0" expanded="true" />
-            <element signature="n#li#5;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#label#0;n#span#2;n#li#5;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#15961#15967#0" expanded="true" />
-            <element signature="e#16172#16178#0" expanded="true" />
-            <element signature="n#div#4;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#17011#17017#0" expanded="true" />
-            <element signature="e#17687#17693#0" expanded="true" />
-            <element signature="n#li#6;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="e#18862#18868#0" expanded="true" />
-            <element signature="n#li#7;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#label#0;n#span#2;n#li#7;n#ul#0;n#div#5;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#20084#20090#0" expanded="true" />
-            <element signature="e#20703#20709#0" expanded="true" />
-            <element signature="n#style#0;n#div#7;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#7;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#1;n#div#0;n#div#7;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#2;n#div#0;n#div#7;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySpider/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        <state relative-caret-position="1078">
+          <caret line="49" column="42" lean-forward="false" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MySpider/spiders/test.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
+        <state relative-caret-position="264">
           <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="2460" column="45" lean-forward="false" selection-start-line="2460" selection-start-column="40" selection-end-line="2460" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        <state relative-caret-position="1122">
+          <caret line="66" column="140" lean-forward="false" selection-start-line="66" selection-start-column="140" selection-end-line="66" selection-end-column="140" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
