@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e7915e1-ea94-4ad6-8a91-3e04420e76b9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MySpider/items.py" afterPath="$PROJECT_DIR$/MySpider/items.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MySpider/spiders/gewara.xml" afterPath="$PROJECT_DIR$/MySpider/spiders/gewara.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MySpider/spiders/nuomi_spider.py" afterPath="$PROJECT_DIR$/MySpider/spiders/nuomi_spider.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +20,8 @@
       <file leaf-file-name="gewara_spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-176">
-              <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            <state relative-caret-position="220">
+              <caret line="70" column="135" lean-forward="true" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="135" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -29,8 +32,20 @@
       <file leaf-file-name="nuomi_spider.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MySpider/spiders/nuomi_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="104">
+              <caret line="59" column="74" lean-forward="false" selection-start-line="59" selection-start-column="74" selection-end-line="59" selection-end-column="74" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MySpider/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -56,10 +71,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MySpider/items.py" />
         <option value="$PROJECT_DIR$/MySpider/spiders/tmp.html" />
         <option value="$PROJECT_DIR$/MySpider/settings.py" />
         <option value="$PROJECT_DIR$/MySpider/spiders/gewara_spider.py" />
+        <option value="$PROJECT_DIR$/MySpider/items.py" />
         <option value="$PROJECT_DIR$/MySpider/spiders/nuomi_spider.py" />
       </list>
     </option>
@@ -91,8 +106,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -139,6 +152,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -323,8 +338,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2806354" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2987897" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31311476" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -332,7 +348,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30983606" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4295082" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -381,6 +397,66 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara_spider.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="62" column="51" lean-forward="false" selection-start-line="62" selection-start-column="51" selection-end-line="62" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/nuomi_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/nuomi_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="23" column="67" lean-forward="false" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
           <folding>
@@ -401,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -415,29 +490,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MySpider/spiders/test.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/test.xml" />
     <entry file="file://$PROJECT_DIR$/MySpider/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="38" column="30" lean-forward="true" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MySpider/spiders/tmp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/tmp.html" />
     <entry file="file://$PROJECT_DIR$/MySpider/spiders/nuomi_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -466,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -563,42 +623,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MySpider/spiders/tmp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="49" column="42" lean-forward="false" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySpider/spiders/test.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="2460" column="45" lean-forward="false" selection-start-line="2460" selection-start-column="40" selection-end-line="2460" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MySpider/items.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/tmp.html" />
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/test.xml" />
     <entry file="file://$PROJECT_DIR$/MySpider/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="53" column="31" lean-forward="true" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -606,14 +636,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12891">
+          <caret line="489" column="35" lean-forward="false" selection-start-line="489" selection-start-column="35" selection-end-line="489" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySpider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MySpider/spiders/gewara_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176">
-          <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        <state relative-caret-position="220">
+          <caret line="70" column="135" lean-forward="true" selection-start-line="70" selection-start-column="52" selection-end-line="70" selection-end-column="135" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -622,9 +667,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MySpider/spiders/nuomi_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="104">
+          <caret line="59" column="74" lean-forward="false" selection-start-line="59" selection-start-column="74" selection-end-line="59" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

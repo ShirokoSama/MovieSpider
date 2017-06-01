@@ -25,3 +25,15 @@ class GewaraFilmScreenings(scrapy.Item):
     price = scrapy.Field()
     language = scrapy.Field()
 
+class NuomiFilm(scrapy.Item):
+    name = scrapy.Field()
+    cinema = scrapy.Field()
+    date = scrapy.Field()
+    screenings = scrapy.Field()
+
+class NuomiFilmScreenings(scrapy.Item):
+    auditorium = scrapy.Field()
+    time = scrapy.Field()
+    price = scrapy.Field()
+    remain = scrapy.Field()
+
