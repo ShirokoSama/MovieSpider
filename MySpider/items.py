@@ -13,6 +13,18 @@ class MyspiderItem(scrapy.Item):
     # name = scrapy.Field()
     pass
 
+class GewaraFilmScore(scrapy.Item):
+    name = scrapy.Field()
+    score = scrapy.Field()
+
+class NuomiFilmScore(scrapy.Item):
+    name = scrapy.Field()
+    score = scrapy.Field()
+
+class MeituanFilmScore(scrapy.Item):
+    name = scrapy.Field()
+    score = scrapy.Field()
+
 class GewaraFilm(scrapy.Item):
     name = scrapy.Field()
     cinema = scrapy.Field()
