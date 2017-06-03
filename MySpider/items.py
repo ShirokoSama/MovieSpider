@@ -37,3 +37,14 @@ class NuomiFilmScreenings(scrapy.Item):
     price = scrapy.Field()
     remain = scrapy.Field()
 
+class MeituanFilm(scrapy.Item):
+    name = scrapy.Field()
+    cinema = scrapy.Field()
+    date = scrapy.Field()
+    screenings = scrapy.Field()
+
+class MeituanFilmScreenings(scrapy.Item):
+    auditorium = scrapy.Field()
+    time = scrapy.Field()
+    type = scrapy.Field()
+
